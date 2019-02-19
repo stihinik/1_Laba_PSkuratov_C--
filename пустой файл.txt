@@ -1,1 +1,2 @@
-привет мир. ты крут
+Russian on githab is not displayed, so they wrote in English
+Hello World! You are awesome!!
