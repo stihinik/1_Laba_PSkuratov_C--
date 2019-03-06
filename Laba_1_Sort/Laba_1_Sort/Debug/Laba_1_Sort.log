@@ -1,13 +1,14 @@
 ﻿  Laba_1_Sort.cpp
-c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(86): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(87): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
           with
           [
               _Ty=double
           ]
-c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(103): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(104): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
           with
           [
               _Ty=double
           ]
-c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(193): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(189): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\пользователь\desktop\магистр\с++\1_laba_pskuratov_c++\1_laba_pskuratov_c--\laba_1_sort\laba_1_sort\laba_1_sort.cpp(260): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Laba_1_Sort.vcxproj -> C:\Users\Пользователь\Desktop\магистр\С++\1_Laba_PSkuratov_C++\1_Laba_PSkuratov_C--\Laba_1_Sort\Debug\Laba_1_Sort.exe
